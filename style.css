@@ -11,7 +11,7 @@
 body {
     width: 100%;
     height: 100vh;
-    background: url("/images/background.jpg") center / cover no-repeat;
+    background: url("images/background.jpg") center / cover no-repeat;
 }
 
 /* edit header */
@@ -185,14 +185,14 @@ header {
 
 /* edit .login .form-details background */
 .login .form-details {
-    background: url("/images/backgroundLogin.jpg");
+    background: url("images/backgroundLogin.jpg");
     background-size: cover;
     background-position: center;
 }
 
 /* edit .signup .form-details background */
 .signup .form-details {
-    background: url("/images/backgroundLogin.jpg");
+    background: url("images/backgroundLogin.jpg");
     background-size: cover;
     background-position: center;
 }
